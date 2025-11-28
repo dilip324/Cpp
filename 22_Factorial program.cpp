@@ -20,6 +20,6 @@ int main(){
     int a;
     cout<<"Enter a number "<<endl;
     cin>>a;
-    cout<<"The factorial of "<<a<< 3" is "<<factorial(a)<<endl; 
+    cout<<"The factorial of "<<a<< " is "<<factorial(a)<<endl; 
     return 0;  
 }
